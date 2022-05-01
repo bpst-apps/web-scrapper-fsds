@@ -2,3 +2,5 @@
 venv
 application/__pycache__/
 application/routes.py
+application/home/__pycache__/
+application/image/__pycache__/

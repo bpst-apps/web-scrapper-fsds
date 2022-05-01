@@ -1,0 +1,4 @@
+.idea
+venv
+application/__pycache__/
+application/routes.py
